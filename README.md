@@ -5,7 +5,7 @@ This is the **first version** of the Todo App—built with vanilla JavaScript, H
 ---
 
 ##  Live Demo
-- [View v1 App Live](https://ifechiglory.github.io/Todo-list/)  
+- [View v1 App Live](ifechiglory.github.io/Todo-list/)  
 - Prefer a more scalable version? Check out **[Todo App v2 (Redux Toolkit)](https://github.com/ifechiglory/to-do)**
 
 ---
